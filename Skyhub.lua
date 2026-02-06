@@ -10,4 +10,4 @@ if game.GameId == 1494262959 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/114514jjsjzjzjzsk/Script/refs/heads/main/obfuscated.lua%20(1).txt"))()
     return 
 end
-loadstring(game:HttpGet("https://raw.githubusercontent.com/114514jjsjzjzjzsk/Script/refs/heads/main/obfuscated.lua%20(2).txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/114514jjsjzjzjzsk/Script/refs/heads/main/obfuscated.lua%20(6).txt"))()
